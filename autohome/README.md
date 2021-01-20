@@ -1,6 +1,6 @@
 【https://www.imooc.com/article/292432】 学习网址 ---  王 20210220
 pip install fontTools -i https://mirrors.aliyun.com/pypi/simple/
-
+在线字体： https://kekee000.github.io/fonteditor/    拖入下载到字体文件，然后点击工具， 点击生成字形名称，
 
 
 
