@@ -1,3 +1,9 @@
+【https://www.imooc.com/article/292432】 学习网址 ---  王 20210220
+pip install fontTools -i https://mirrors.aliyun.com/pypi/simple/
+
+
+
+
 # 汽车之家爬虫
 ### 仅限学术交流，如有冒犯，请及时联系本人删除
 ***
